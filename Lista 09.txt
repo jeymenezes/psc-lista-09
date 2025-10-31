@@ -1,0 +1,39 @@
+1. Pessoa
+Características: nome, idade, altura, CPF, e-mail
+Ações: andar, comer, dormir, falar, estudar
+
+2. Cachorro
+Características: nome, raça, idade, cor, peso
+Ações: latir, correr, comer, dormir, brincar
+
+3. Carro
+Características: marca, modelo, cor, ano, placa
+Ações: acelerar, frear, buzinar, ligar, desligar
+
+4. Celular
+Características: marca, modelo, sistema operacional, memória, cor
+Ações: ligar, enviar mensagem, tirar foto, tocar música, navegar na internet
+
+5. Casa
+Características: endereço, número de quartos, cor, tamanho, tipo de telhado
+Ações: abrigar, proteger, iluminar, ventilar, aquecer
+
+6. Livro
+Características: título, autor, número de páginas, gênero, idioma
+Ações: ser lido, contar história, ensinar, informar, entreter
+
+7. Computador
+Características: processador, memória RAM, armazenamento, sistema operacional, tamanho da tela
+Ações: processar dados, armazenar informações, exibir imagens, conectar à internet, rodar programas
+
+8. Relógio
+Características: marca, tipo (digital ou analógico), cor, material, formato
+Ações: marcar hora, despertar, cronometrar, emitir alarme, ajustar horário
+
+9. Bicicleta
+Características: marca, cor, tamanho, tipo de freio, número de marchas
+Ações: andar, frear, pedalar, virar, estacionar
+
+10. Mala de Viagem
+Características: tamanho, cor, peso, material, capacidade
+Ações: guardar roupas, transportar objetos, abrir, fechar, ser carregada
